@@ -61,7 +61,7 @@ Android O（Android 8.0）系统只会授予应用明确请求的权限。一旦
 Android M (6.0)以后，申请权限组一个，即表示整个权限组可以用，所以只要 api 版本大于 23（6.0）,
 申请的权限就是申请整个权限组，这样就兼容了Android8.0
 
-```
+
 1. <uses-permission android:name="andriod.permission.ACCESS_CHECKIN_PROPERTIES" />
 1. <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 1. <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
@@ -199,4 +199,3 @@ Android M (6.0)以后，申请权限组一个，即表示整个权限组可以�
 1. <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
 1. <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS"/>
 1. <uses-permission android:name="android.permission.WRITE_VOICEMAIL"/>
-```
