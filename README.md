@@ -26,3 +26,15 @@ APK 反编译工具
 
 `https://github.com/iBotPeaches/Apktool/releases`
 `https://bitbucket.org/iBotPeaches/apktool/downloads`
+
+## [IDA Pro](https://www.hex-rays.com/products/ida/support/download.shtml)
+
+静态分析神器
+
+## [jeb](https://www.pnfsoftware.com/)
+
+逆向工程平台
+
+## [jadx](https://github.com/skylot/jadx/releases)
+
+Dex to Java decompiler
